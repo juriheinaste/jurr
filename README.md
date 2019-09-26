@@ -5,3 +5,8 @@ Is this is a new repository?
 - No
 Here comes a new update! 
 > Pardon my French
+
+Is this real life?
+- [ ] Yes
+- [ ] No
+- [ ] Maybe?
